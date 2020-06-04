@@ -1,0 +1,5 @@
+pageObject\BaseClass.class
+testRunner\testRun.class
+stepDefinitions\nopCommerceStep.class
+pageObject\CustomerPage.class
+pageObject\LoginPage.class
